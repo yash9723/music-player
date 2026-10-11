@@ -84,18 +84,6 @@ $(document).ready(function(){
   var myPlaylist = new jPlayerPlaylist(cssSelector, playlist, options);
   var PlayerData = $(cssSelector.jPlayer).data("jPlayer");
 
-  // Song picker: choose any track from a dropdown; stays in sync with next/previous.
-  var $picker = $('<select class="song-picker"></select>');
-  $.each(playlist, function(i, track) {
-    $picker.append($('<option></option>').val(i).text(track.title + " - " + track.artist.split(" (")[0]));
-  });
-  $(".info").append($picker);
-  $picker.on("change", function() {
-    myPlaylist.play(parseInt(this.value, 10));
-  });
-  $(cssSelector.jPlayer).on($.jPlayer.event.play, function() {
-    $picker.val(myPlaylist.current);
-  });
   
   
   // Create the volume slider control
