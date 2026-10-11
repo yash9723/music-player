@@ -16,6 +16,21 @@ $(document).ready(function(){
       artist:"Wikimedia Commons (CC BY-SA 4.0)",
       mp3:"https://upload.wikimedia.org/wikipedia/commons/1/12/03may2020-tobefree.mp3",
       poster: "https://i.imgur.com/klJKSVZ.jpg"
+    },{
+      title:"Indian Romantic",
+      artist:"Waveloom (CC BY-ND 4.0, Free Music Archive)",
+      mp3:"https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/YznELElwUIc91sqYrfbnslJWW10Q4PfYcuKptKT8.mp3",
+      poster: "https://i.imgur.com/sCbrzQa.png"
+    },{
+      title:"Hindi No Copyright Song",
+      artist:"VibeDepot (CC BY-ND 4.0, Free Music Archive)",
+      mp3:"https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/Nf5knmcPpsbGLcZgJPcOwAMGDTECcZhXEnFPZtLV.mp3",
+      poster: "https://i.imgur.com/lXvsuBu.png"
+    },{
+      title:"Old Bollywood Cinematic With Strings and Tabla",
+      artist:"Alex Morgan (CC BY 4.0, Free Music Archive)",
+      mp3:"https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/m614bopzRaWAHXMBeaG9igwz3qY7rczDagMM2wdq.mp3",
+      poster: "https://i.imgur.com/klJKSVZ.jpg"
   }];
   
   var cssSelector = {
