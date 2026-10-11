@@ -31,6 +31,36 @@ $(document).ready(function(){
       artist:"Alex Morgan (CC BY 4.0, Free Music Archive)",
       mp3:"https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/m614bopzRaWAHXMBeaG9igwz3qY7rczDagMM2wdq.mp3",
       poster: "https://i.imgur.com/klJKSVZ.jpg"
+    },{
+      title:"Free Hindi Song",
+      artist:"Soundore (CC BY-ND 4.0, Free Music Archive)",
+      mp3:"https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/67ZWCWNaWhHVXeacsNxdQLCfE1R9Xaafx9IBAQvB.mp3",
+      poster: "https://i.imgur.com/sCbrzQa.png"
+    },{
+      title:"Hindi Song",
+      artist:"Soundore (CC BY-ND 4.0, Free Music Archive)",
+      mp3:"https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/b5CShMAoTfKhvgWUgTbPFQrL58UdZUmuzUJxiZUk.mp3",
+      poster: "https://i.imgur.com/lXvsuBu.png"
+    },{
+      title:"Hindi Song Free",
+      artist:"Soundore (CC BY-ND 4.0, Free Music Archive)",
+      mp3:"https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/u3CgoZKtaobvw1ljAJKPVg05d7uaNAkWvDgTp4FX.mp3",
+      poster: "https://i.imgur.com/klJKSVZ.jpg"
+    },{
+      title:"Free Hindi Music",
+      artist:"Soundore (CC BY-ND 4.0, Free Music Archive)",
+      mp3:"https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/IJjA8HWM7D5e0dipdGZyKTJmw9WzYMBig1wh7EyJ.mp3",
+      poster: "https://i.imgur.com/sCbrzQa.png"
+    },{
+      title:"Indian Music",
+      artist:"Alex Morgan (CC BY 4.0, Free Music Archive)",
+      mp3:"https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/9XNmDG7gvAvUeInsHjMQHDy3TFJGAwq0dqTh1fZi.mp3",
+      poster: "https://i.imgur.com/lXvsuBu.png"
+    },{
+      title:"Indian Classical Music",
+      artist:"Alex Morgan (CC BY 4.0, Free Music Archive)",
+      mp3:"https://files.freemusicarchive.org/storage-freemusicarchive-org/tracks/UBc10i3uYNr8HOYBxj5WFl7OuP6EQGaFvXsz2hDP.mp3",
+      poster: "https://i.imgur.com/klJKSVZ.jpg"
   }];
   
   var cssSelector = {
