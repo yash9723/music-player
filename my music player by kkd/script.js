@@ -1,21 +1,20 @@
 $(document).ready(function(){
 
+  // Tracks from Wikimedia Commons (HTTPS). The original jplayer.org files return HTML placeholders.
   var playlist = [{
-      title:"Hidden",
-      artist:"Miaow",
-      mp3:"http://www.jplayer.org/audio/mp3/Miaow-02-Hidden.mp3",
-      oga:"http://www.jplayer.org/audio/ogg/Miaow-02-Hidden.ogg",
+      title:"Submarine Song",
+      artist:"USNA Midshipmen Glee Club",
+      mp3:"https://upload.wikimedia.org/wikipedia/commons/5/57/%22Submarine_Song%22_or_%22Down_Down_Underneath_The_Sea%22_sung_by_the_USNA%27s_Midshipmen_Glee_Club.mp3",
       poster: "https://i.imgur.com/sCbrzQa.png"
     },{
-      title:"Cro Magnon Man",
-      artist:"The Stark Palace",
-      mp3:"http://www.jplayer.org/audio/mp3/TSP-01-Cro_magnon_man.mp3",
-      oga:"http://www.jplayer.org/audio/ogg/TSP-01-Cro_magnon_man.ogg",
+      title:"Blow The Man Down",
+      artist:"USNA Midshipmen Glee Club",
+      mp3:"https://upload.wikimedia.org/wikipedia/commons/6/62/%22Blow_The_Man_Down%22_sung_by_the_U.S._Naval_Academy%27s_Midshipmen_Glee_Club.mp3",
       poster: "https://i.imgur.com/lXvsuBu.png"
     },{
-      title:"Bubble",
-      m4a: "http://www.jplayer.org/audio/m4a/Miaow-07-Bubble.m4a",
-      oga: "http://www.jplayer.org/audio/ogg/Miaow-07-Bubble.ogg",
+      title:"To Be Free",
+      artist:"Wikimedia Commons (CC BY-SA 4.0)",
+      mp3:"https://upload.wikimedia.org/wikipedia/commons/1/12/03may2020-tobefree.mp3",
       poster: "https://i.imgur.com/klJKSVZ.jpg"
   }];
   
